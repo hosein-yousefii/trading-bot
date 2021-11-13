@@ -16,3 +16,5 @@ if you want to change your coin from btc to other things you should change varia
 
 # How to contribute
 it woud be a good idea to send me emails for further details: yousefi.hosein.o@gmail.com
+
+Copyright 2021 Hosein Yousefi <yousefi.hosein.o@gmail.com>
